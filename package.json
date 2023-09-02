@@ -9,8 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@prisma/client": "^5.1.1",
+    "@tiptap/extension-color": "^2.0.4",
+    "@tiptap/extension-list-item": "^2.0.4",
+    "@tiptap/extension-text-style": "^2.0.4",
+    "@tiptap/pm": "^2.0.4",
+    "@tiptap/react": "^2.0.4",
+    "@tiptap/starter-kit": "^2.0.4",
+    "moment": "^2.29.4",
     "next": "13.4.12",
+    "prop-types": "^15.8.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-confirm-alert": "^3.0.6",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.1",
+    "react-quill": "^2.0.0"
+  },
+  "devDependencies": {
+    "prisma": "^5.1.1"
   }
 }

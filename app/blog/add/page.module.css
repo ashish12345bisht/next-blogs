@@ -1,0 +1,10 @@
+.editorContainer {
+  background-color: #fff;
+  color: #000;
+  border-radius: 20px;
+  min-height: 300px;
+  padding: 1rem;
+}
+.ProseMirror {
+  min-height: 300px !important;
+}
